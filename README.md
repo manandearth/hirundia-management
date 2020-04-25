@@ -9,6 +9,6 @@ Working towards three milestones:
 
 ## 2. styled app - prepared, styled, responsive 2020-02-29 - DONE
 
-## 3. working, react app to replace the dashboard 2020-03-31 - NEXT
+## 3. working, react app to replace the dashboard 2020-03-31 - DONE
 
-## 4. functioning mobile app - 2020-04-30 - TODO
+## 4. functioning mobile app - 2020-05-30 - TODO
